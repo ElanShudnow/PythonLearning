@@ -6,7 +6,7 @@ answer = ""
 
 if not(name):
   print("ERROR: There is no name specified")
-  name = input("What is your name?")
+  name = input("What is your name? ")
 
 random_number = random.randint(1, 9)
 
